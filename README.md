@@ -4,7 +4,8 @@ A simple chatbot built with **React + TypeScript (frontend)** and **FastAPI (bac
 
 ## Screenshot
 
-<img width="1752" height="1306" alt="image" src="https://github.com/user-attachments/assets/6d1125be-69c6-42c6-9011-a2070b216b09" />
+<img width="2854" height="1410" alt="image" src="https://github.com/user-attachments/assets/5af25fac-87bd-4fa1-80ab-17a1453fc7af" />
+
 
 
 ## Features
