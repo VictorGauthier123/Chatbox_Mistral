@@ -4,6 +4,7 @@ A simple chatbot built with **React + TypeScript (frontend)** and **FastAPI (bac
 
 ## Screenshot
 
+<img width="1752" height="1306" alt="image" src="https://github.com/user-attachments/assets/6d1125be-69c6-42c6-9011-a2070b216b09" />
 
 
 ## Features
@@ -53,8 +54,8 @@ CHATBOT_MISTRAL/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-github/mistral-chatbot.git
-cd mistral-chatbot
+git clone https://github.com/VictorGauthier123/Chatbox_Mistral.git
+cd chatbox_mistral
 ```
 
 ### 2. Backend (FastAPI)
